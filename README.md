@@ -6,15 +6,15 @@ I am a first-year **Electronic Systems and Technologies** student at **BSUIR** (
 - 🌱 **Currently learning:** C/C++ (Pointers, Memory Management), Digital Logic, and Computer Architecture
 - 🚀 **Future Roadmap:** STM32 / ESP32 microcontrollers, Embedded Linux, RTOS, and IoT Web Dashboards (Python / JS / MQTT)
 - 🎓 **Education:** B.S. in Electronic Systems and Technologies, BSUIR (2026–2030)
-- 📫 **Reach me at:** [ваш_email@example.com](mailto:ваш_email@example.com)
+- 📫 **Reach me at:** [vojnadima310@gmail.com](mailto:vojnadima310@gmail.com)
 
 #### 🛠️ Core & Target Tech Stack
 **Embedded & Low-Level:**
-![C](https://shields.io)
-![C++](https://shields.io)
-![Linux](https://shields.io)
+![C](https://img.shields.io/badge/C-A8B9CC)
+![C++](https://img.shields.io/badge/C++-00599C)
+![Linux](https://img.shields.io/badge/Linux-FCC624)
 
 **Tools & Full-Stack IoT (Roadmap):**
-![Git](https://shields.io)
-![Python](https://shields.io)
-![Docker](https://shields.io)
+![Git](https://img.shields.io/badge/Git-F05032)
+![Python](https://img.shields.io/badge/Python-3776AB)
+![Docker](https://img.shields.io/badge/Docker-2496ED)
