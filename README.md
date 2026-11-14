@@ -1,4 +1,4 @@
-### Hi there, I'm Dzmitry! 👋
+### Hi there, I'm Dmitry! 👋
 
 I am a first-year Electronic Systems and Technologies student at BSUIR (Faculty of Computer-Aided Design), aiming to become a **Full-Stack Embedded Engineer** who builds both low-level firmware and modern web interfaces for IoT devices.
 
