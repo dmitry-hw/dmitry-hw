@@ -2,11 +2,11 @@
 
 I am a first-year Electronic Systems and Technologies student at BSUIR (Faculty of Computer-Aided Design), aiming to become a **Full-Stack Embedded Engineer** who builds both low-level firmware and modern web interfaces for IoT devices.
 
-- 🔭 **Currently working on:** Low-level C/C++ programming, binary file systems, and algorithmic problem-solving
-- 🌱 **Currently learning:** C/C++ (Pointers, Memory Management), Digital Logic, and Computer Architecture
-- 🚀 **Future Roadmap:** STM32 / ESP32 microcontrollers, Embedded Linux, RTOS, and IoT Web Dashboards (Python / JS / MQTT)
-- 🎓 **Education:** B.S. in Electronic Systems and Technologies, BSUIR (2026–2030)
-- 📫 **Reach me at:** [vojnadima310@gmail.com](mailto:vojnadima310@gmail.com)
+-  **Currently working on:** Low-level C/C++ programming, binary file systems, and algorithmic problem-solving
+-  **Currently learning:** C/C++ (Pointers, Memory Management), Digital Logic, and Computer Architecture
+-  **Future Roadmap:** STM32 / ESP32 microcontrollers, Embedded Linux, RTOS, and IoT Web Dashboards (Python / JS / MQTT)
+-  **Education:** B.S. in Electronic Systems and Technologies, BSUIR (2026–2030)
+-  **Reach me at:** [vojnadima310@gmail.com](mailto:vojnadima310@gmail.com)
 
 #### 🛠️ Core & Target Tech Stack
 **Embedded & Low-Level:**
